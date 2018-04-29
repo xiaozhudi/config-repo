@@ -9,4 +9,4 @@ spring:
     name: eureka-clientbbb
 server:
   port: 8087
-dev: zhudi
+dev: luolina
